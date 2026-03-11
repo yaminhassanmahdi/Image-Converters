@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Image Converter",
+  "description": "Convert, resize, and bulk edit images including RAW formats like CR2.",
+  "requestFramePermissions": []
+}
